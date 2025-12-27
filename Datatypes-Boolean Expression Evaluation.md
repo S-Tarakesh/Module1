@@ -1,4 +1,3 @@
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/ac25f23b-b4c6-4298-9db9-3da1f7ade0d2" />
 # Ex 1:Datatypes-Boolean Expression Evaluation in Python
 
 ## 🎯 Aim
@@ -30,3 +29,4 @@ print(f"d: {d}")
 <img width="918" height="778" alt="image" src="https://github.com/user-attachments/assets/56ebbfc8-863d-4f98-8f33-de88afe237c0" />
 
 ## Result
+The program was run and executed successfully.
